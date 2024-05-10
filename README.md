@@ -1,2 +1,2 @@
-# Alura_Imers-oIA
+# Alura_ImersaoIA
 Em desenvolvimento. 
